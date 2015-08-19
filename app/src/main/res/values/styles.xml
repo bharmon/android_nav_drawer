@@ -1,8 +1,13 @@
 <resources>
 
     <!-- Base application theme. -->
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <item name="colorPrimary">#212121</item>
+        <item name="colorPrimaryDark">#FFA000</item>
+        <item name="colorAccent">#FF9800</item>
+        <item name="android:textColorPrimary">@color/orangeViv</item>
+        <item name="android:activatedBackgroundIndicator">@drawable/nav_bar_bkgrnd</item>
+
     </style>
 
 </resources>
