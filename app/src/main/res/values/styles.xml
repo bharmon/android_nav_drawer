@@ -2,9 +2,9 @@
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat">
-        <item name="colorPrimary">#212121</item>
-        <item name="colorPrimaryDark">#FFA000</item>
-        <item name="colorAccent">#FF9800</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
         <item name="android:textColorPrimary">@color/orangeViv</item>
         <item name="android:activatedBackgroundIndicator">@drawable/nav_bar_bkgrnd</item>
 

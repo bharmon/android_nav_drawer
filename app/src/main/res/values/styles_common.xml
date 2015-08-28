@@ -9,6 +9,11 @@
     <color name="orangeLt"      >#FFD38C</color>
     <color name="orangeViv"     >#FE9C00</color>
 
+    <!--swap out android material design theme colors here-->
+    <color name="colorPrimary">#212121</color>
+    <color name="colorPrimaryDark">#FFA000</color>
+    <color name="colorAccent">#FF9800</color>
+
     <!--font sizes-->
     <dimen name="fontSizeSmall" >12sp</dimen>
     <dimen name="fontSizeLarge" >15sp</dimen>
