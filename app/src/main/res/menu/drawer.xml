@@ -6,31 +6,31 @@
         <item
             android:id="@+id/first_fragment"
             android:checked="false"
-            android:icon="@drawable/ic_lock_black_48dp"
+            android:icon="@drawable/ic_lock_white"
             android:title="@string/first_menu" />
 
         <item
             android:id="@+id/second_fragment"
             android:checked="false"
-            android:icon="@drawable/ic_hvac_black_48dp"
+            android:icon="@drawable/ic_hvac_white"
             android:title="@string/second_menu" />
 
         <item
             android:id="@+id/third_fragment"
             android:checked="false"
-            android:icon="@drawable/ic_settings_black_48dp"
+            android:icon="@drawable/ic_settings_white"
             android:title="@string/third_menu" />
 
         <item
             android:id="@+id/fourth_fragment"
             android:checked="false"
-            android:icon="@drawable/ic_warning_black_48dp"
+            android:icon="@drawable/ic_warning_white"
             android:title="@string/fourth_menu" />
 
         <item
             android:id="@+id/fifth_fragment"
             android:checked="false"
-            android:icon="@drawable/ic_live_help_black_48dp"
+            android:icon="@drawable/ic_live_help_white"
             android:title="@string/fifth_menu" />
 
     </group>
