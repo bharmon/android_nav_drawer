@@ -1,19 +1,5 @@
 <resources>
 
-    <!--basic colors from Styleguide 1.1 -->
-    <color name="white"         >#FFFFFF</color>
-    <color name="grey"          >#C4C4C4</color>
-    <color name="black"         >#000000</color>
-    <color name="blueLt"        >#B2F0FF</color>
-    <color name="blueViv"       >#53B5CE</color>
-    <color name="orangeLt"      >#FFD38C</color>
-    <color name="orangeViv"     >#FE9C00</color>
-
-    <!--swap out android material design theme colors here-->
-    <color name="colorPrimary">#212121</color>
-    <color name="colorPrimaryDark">#FFA000</color>
-    <color name="colorAccent">#FF9800</color>
-
     <!--font sizes-->
     <dimen name="fontSizeSmall" >12sp</dimen>
     <dimen name="fontSizeLarge" >15sp</dimen>
